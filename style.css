@@ -1,0 +1,73 @@
+body{
+    background-color:rgb(212, 211, 211);
+    margin: 0px;
+}
+
+.header{
+    height: 100px;
+    background-color: #081827;
+    width:100%;
+    text-align: center;
+}
+
+
+.title-row{
+    margin-top: 42px;
+    margin-bottom: 21px;
+    text-align: center;
+  }
+
+  .instructionTitle{
+      display: inline;
+      font-size: 22px;
+      color: #081827;
+      font-family: sans-serif;
+      text-align: center;
+  }
+
+  .instructions-row{
+      margin: auto;
+      width: 450px;
+      font-size: 20px;
+      text-align: center;
+  }
+
+  .instructions-number{
+      padding-right: 25px;
+      font-family: sans-serif;
+      font-size: 15px;
+      color: #081827;
+  }
+
+  .instructions-text{
+      padding: 10px;
+      font-family: sans-serif;
+      font-size: 14px;
+      color:#081827;
+  }
+
+  .door-row{
+      text-align: center;
+      
+  }
+
+.door-frame{
+    cursor: pointer;
+    height: 225px;
+    width: 125px;
+    padding: 20px;
+}
+
+.start-row{
+    margin:auto;
+    width: 120px;
+    height:43px;
+    font-family:sans-serif;
+    background-color:cyan;
+    padding-top:18px;
+    font-size:18px;
+    text-align:center;
+    color:#010165;
+    margin-bottom: 21px;
+    cursor:pointer;
+  }
